@@ -77,8 +77,7 @@
 <br/><br/>
 
 # ERD 📝
-
-![image](https://github.com/user-attachments/assets/4cd84744-d2fd-42d6-8a39-ce085d069201)
+![image](https://github.com/user-attachments/assets/8181cd50-56da-4d94-baa9-6b02487818be)
 
 <br/><br/>
 # 주요 기능 💵
